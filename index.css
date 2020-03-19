@@ -1,0 +1,12 @@
+#ext-button{
+  position: relative;
+  color: #aaa;
+  padding: 10.5px 2px;
+  font-size: 1.3rem;
+  font-weight: 500;
+  top: 0px;
+  left: 0px;
+}
+#ext-button:hover{
+  cursor: pointer;
+}
